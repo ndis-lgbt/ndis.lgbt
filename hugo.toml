@@ -2,6 +2,9 @@ baseURL = "https://ndis.lgbt/"
 languageCode = "en-us"
 title = "NDISdotLGBT"
 
+[params]
+  contentTypeName = "posts"
+
 [module]
     # uncomment line below for temporary local development of module
     # or when using a 'theme' as a git submodule
