@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on NDISdotLGBT</title>
+    <link>https://ndis.lgbt/docs/</link>
+    <description>Recent content in Docs on NDISdotLGBT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 23:57:01 +1000</lastBuildDate><atom:link href="https://ndis.lgbt/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Page</title>
+      <link>https://ndis.lgbt/docs/test-page/</link>
+      <pubDate>Tue, 19 Sep 2023 23:57:01 +1000</pubDate>
+      
+      <guid>https://ndis.lgbt/docs/test-page/</guid>
+      <description>this is a test linkthanks for making me use nano sudo apt install vim</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ndis.lgbt/docs/test-page/</loc>
+    <lastmod>2023-09-19T23:57:01+10:00</lastmod>
+  </url><url>
     <loc>https://ndis.lgbt/</loc>
-    <lastmod>2023-09-19T23:18:17+10:00</lastmod>
+    <lastmod>2023-09-20T00:10:59+10:00</lastmod>
+  </url><url>
+    <loc>https://ndis.lgbt/posts/hello-world/</loc>
+    <lastmod>2023-09-20T00:07:30+10:00</lastmod>
+  </url><url>
+    <loc>https://ndis.lgbt/posts/</loc>
+    <lastmod>2023-09-20T00:07:30+10:00</lastmod>
+  </url><url>
+    <loc>https://ndis.lgbt/docs/</loc>
+    <lastmod>2023-09-19T23:57:01+10:00</lastmod>
   </url><url>
     <loc>https://ndis.lgbt/categories/</loc>
-  </url><url>
-    <loc>https://ndis.lgbt/</loc>
   </url><url>
     <loc>https://ndis.lgbt/tags/</loc>
   </url>

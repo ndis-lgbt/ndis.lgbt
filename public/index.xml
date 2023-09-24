@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NDISdotLGBT</title>
+    <title>TITLE on NDISdotLGBT</title>
     <link>https://ndis.lgbt/</link>
-    <description>Recent content on NDISdotLGBT</description>
+    <description>Recent content in TITLE on NDISdotLGBT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ndis.lgbt/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 00:10:59 +1000</lastBuildDate><atom:link href="https://ndis.lgbt/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test page</title>
-      <link>https://ndis.lgbt/</link>
-      <pubDate>Tue, 19 Sep 2023 23:18:17 +1000</pubDate>
+      <title>Test Page</title>
+      <link>https://ndis.lgbt/docs/test-page/</link>
+      <pubDate>Tue, 19 Sep 2023 23:57:01 +1000</pubDate>
       
-      <guid>https://ndis.lgbt/</guid>
-      <description>this is a test page this is a test paragraph.</description>
+      <guid>https://ndis.lgbt/docs/test-page/</guid>
+      <description>this is a test linkthanks for making me use nano sudo apt install vim</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://ndis.lgbt/posts/hello-world/</link>
+      <pubDate>Wed, 20 Sep 2023 00:07:30 +1000</pubDate>
+      
+      <guid>https://ndis.lgbt/posts/hello-world/</guid>
+      <description>hello world hello</description>
     </item>
     
   </channel>
