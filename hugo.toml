@@ -5,6 +5,9 @@ title = "NDISdotLGBT"
 [params]
   contentTypeName = "posts"
 
+[params.docs]
+  darkMode = "true"
+
 [module]
     [[module.imports]]
         path = "github.com/colinwilson/lotusdocs"
