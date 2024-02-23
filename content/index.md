@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Queer NDIS Guide
 ---
 
 This is a blank Quartz installation.
