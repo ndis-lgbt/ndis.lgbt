@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🏳️‍🌈 Queer NDIS Guide 🏳️‍⚧️",
+    pageTitle: "🏳️‍🌈 Queer NDIS Guide",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
