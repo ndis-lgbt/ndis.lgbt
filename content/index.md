@@ -8,10 +8,3 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 Home of ndis.lgbt
 
-norah
-
-gay
-
-i don't know what to put here
-
-what's this
