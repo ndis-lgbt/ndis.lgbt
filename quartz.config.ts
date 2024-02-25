@@ -6,7 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "🏳️‍🌈🏳️‍⚧️ Queer NDIS Guide",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {null}
+    analytics: null,
     locale: "en-US",
     baseUrl: "ndis.lgbt",
     ignorePatterns: ["private", "templates", ".obsidian"],
